@@ -1,5 +1,4 @@
-# Aptitude Masterclass — JioStar Analytics OA
-
+# Aptitude Masterclass 
 > CAT-teacher style: every concept → core idea → shortcut bank → real questions.
 > Don't memorise formulas blindly. Understand the **one pattern** each topic is really testing.
 
